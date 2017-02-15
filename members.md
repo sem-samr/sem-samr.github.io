@@ -3,16 +3,10 @@ layout: page
 title: Members
 permalink: /members/
 ---
+This list includes the current members of the Society for Arab Music Research. If you would like to add your name and contact information, please email [Christopher Witulski][email].
 
-Who is in the group, what they do, and how to join
+{% for member in site.members %}
+{% include member.html member=member %}
+{% endfor %}
 
-* Thing
-* Thing
-* Thing
-* Thing
-* Thing
-* Thing
-* Thing
-* Thing
-* Thing
-* Thing
+[email]: mailto:cwituls@bgsu.edu

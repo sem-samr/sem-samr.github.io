@@ -1,0 +1,15 @@
+<h4>{{ member.first-name }} {{ member.last-name }}
+	{% if member.affiliation %}
+	<small>{{ member.affiliation }}
+		{% if member.title %} - {{ member.title }}{% endif %}
+	</small>
+	{% endif %}
+</h4>
+
+{% if member.publications %}
+<ul>
+	{% for pub in member.publications %}
+	<li>{{ pub.title }} ({{ pub.date }}), <em>{{ pub.publication }}</em></li>
+	{% endfor %}
+</ul>
+{% endif %}
