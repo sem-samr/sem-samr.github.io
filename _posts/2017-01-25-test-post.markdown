@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Test Post"
+date:   2017-01-25 20:52:09 -0500
+categories: jekyll update
+---
+Testing the posting format for the new site!
