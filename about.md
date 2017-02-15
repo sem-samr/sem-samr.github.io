@@ -1,10 +1,15 @@
 ---
 layout: page
-title: About
+title: About SAMR
 permalink: /about/
 ---
 
-About the organization
+SAMR is a special interest group operating within the Society for Ethnomusicology. It is a collection of scholars dedicated to learning more about Arab music, broadly defined, and the cultural production of the Middle East, North Africa, the Muslim world, and its diaspora.
 
-* It's leadership
-* Mission, vision, whatever
+In addition to this page and its annual meeting at the SEM national conference, the organization hosts an email list. Contact the current president for more information.
+
+# Leadership
+
+* President: David McDonald
+* Past President: Hicham Chami
+* Web Development and Management: Christopher Witulski

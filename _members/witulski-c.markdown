@@ -3,6 +3,7 @@ first-name: "Christopher"
 last-name: "Witulski"
 affiliation: "Bowling Green State University"
 title: "Instructor of Ethnomusicology"
+interests: "Conceptions of sacred and secular within popular culture in Morocco and across North Africa, analytical methodologies"
 publications:
   - title: "Gnawa Lions"
     publication: "Ethnomusicology Forum"
