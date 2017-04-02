@@ -13,6 +13,6 @@ publications:
     publication: "Journal of North African Studies"
     date: "2016"
   - title: "Crossing paths: musical and ritual interactivity between the ḥamadsha and gnawa in Sidi Ali, Morocco"
-    publication: "Yale Journal of  Music and Religion"
+    publication: "Yale Journal of Music and Religion"
     date: "2016"
 ---
