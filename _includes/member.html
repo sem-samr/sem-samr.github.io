@@ -1,30 +1,41 @@
-<div style='
-		margin-top:30px;
-		background:rgb(240, 240, 240);
-		padding:15px;
-		border-radius:10px'>
-
+<div class="member">
 	<h4>{{ member.first-name }} {{ member.last-name }}
 		{% if member.affiliation %}
 		<small>{{ member.affiliation }}
 			{% if member.title %} - {{ member.title }}{% endif %}
 		</small>
 		{% endif %}
+		<span class="drop-down" id="drop-down-{{ member.first-name }}-{{ member.last-name }}">&or;</span>
 	</h4>
 
-	{% if member.interests %}
-	<p>{{ member.interests %}}</p>
+	{% if member.interests or member.publications %}
+
+		<div class="member-info" id="member-info-{{ member.first-name }}-{{ member.last-name }}">
+
+		{% if member.interests %}
+			<p>{{ member.interests %}}</p>
+		{% endif %}
+
+		{% if member.publications %}
+			<ul>
+				{% for pub in member.publications %}
+					{% if pub.link %}
+						<li><a href="{{ pub.link }}" target="_blank">{{ pub.title }}</a> ({{ pub.date }}), <em>{{ pub.publication }}</em></li>
+						{% else %}
+							<li>{{ pub.title }} ({{ pub.date }}), <em>{{ pub.publication }}</em></li>
+					{% endif %}
+				{% endfor %}
+			</ul>
+		{% endif %}
+
+		</div>
+
 	{% endif %}
 
-	{% if member.publications %}
-	<ul>
-		{% for pub in member.publications %}
-			{% if pub.link %}
-				<li><a href="{{ pub.link }}" target="_blank">{{ pub.title }}</a> ({{ pub.date }}), <em>{{ pub.publication }}</em></li>
-				{% else %}
-					<li>{{ pub.title }} ({{ pub.date }}), <em>{{ pub.publication }}</em></li>
-			{% endif %}
-		{% endfor %}
-	</ul>
-	{% endif %}
+	<script>
+		$("#drop-down-{{ member.first-name }}-{{ member.last-name }}").click(function() {
+			$("#member-info-{{ member.first-name }}-{{ member.last-name }}").slideToggle()
+		})
+	</script>
+
 </div>

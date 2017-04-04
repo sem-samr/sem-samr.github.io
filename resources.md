@@ -4,15 +4,4 @@ title: Resources
 permalink: /resources/
 ---
 
-This is a page with Arab music related resources.
-
-* Thing
-* Thing
-* Thing
-* Thing
-* Thing
-* Thing
-* Thing
-* Thing
-* Thing
-* Thing
+Coming Soon: a page dedicated to a collaborative series of resources on various topics related to the study of Arab music.

@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="home">
+
+    <img class="image-header" src="{{ site.url }}/assets/drum.jpg">
+
+  {{ content }}
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li class="post-list-item">
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape | upcase }}</a>
+        </h2>
+
+		<p class="post-excerpt">{{ post.excerpt | strip_html }}</p>
+
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
+</div>

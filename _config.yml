@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Society for Arab Music Research
+author: Maintained by Christopher Witulski
 email: cwituls@bgsu.edu
 description: "A special interest group within the Society for Ethnomuiscology"
 collections:
