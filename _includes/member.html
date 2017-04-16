@@ -1,4 +1,4 @@
-<div class="member" id="member-{{ member.first-name }}-{{ member.last-name }}">
+<div class="collection" id="member-{{ member.first-name }}-{{ member.last-name }}">
 	<h4>{{ member.first-name }} {{ member.last-name }}
 
 		{% if member.job-title %}
@@ -14,7 +14,7 @@
 
 	{% if member.interests or member.publications %}
 
-		<div class="member-info" id="member-info-{{ member.first-name }}-{{ member.last-name }}">
+		<div class="collection-info" id="member-info-{{ member.first-name }}-{{ member.last-name }}">
 
 		{% if member.email or member.website %}
 			<p>
@@ -26,12 +26,12 @@
 
 		{% if member.interests %}
 			<p><strong>Interests:</strong></p>
-			<ul class="member-indent"><li>{{ member.interests %}}</li></ul>
+			<ul class="collection-indent"><li>{{ member.interests %}}</li></ul>
 		{% endif %}
 
 		{% if member.publications %}
 			<p><strong>Selected publications and projects:</strong></p>
-			<ul class="member-indent">
+			<ul class="collection-indent">
 				{% for pub in member.publications %}
 					{% if pub.link %}
 						<li><a href="{{ pub.link }}" target="_blank">{{ pub.title }}</a> ({{ pub.date }}), <em>{{ pub.publication }}</em></li>

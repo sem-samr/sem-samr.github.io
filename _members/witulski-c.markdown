@@ -5,7 +5,7 @@ affiliation: "Bowling Green State University"
 job-title: "Instructor of Ethnomusicology"
 email: "cwitulski@bgsu.edu"
 website: "http://cjwit.github.io"
-interests: "Conceptions of sacred and secular within popular culture in Morocco and across North Africa, analytical methodologies"
+interests: "Sacred popular music in Morocco and across North Africa, analytical methodologies, gnawa music, and authenticity"
 publications:
   - title: "Light rhythms and heavy spirits: entertaining listeners through gnawa musical and ritual adaptations in Morocco"
     publication: "Ethnomusicology Forum"

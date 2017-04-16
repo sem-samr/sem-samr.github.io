@@ -1,0 +1,22 @@
+<div class="collection" id="bibliography-{{ bib.topic-no-space }}">
+	<h4>{{ bib.topic }}
+		<span class="drop-down">&#9660;</span>
+	</h4>
+
+	<div class="collection-info" id="bibliography-info-{{ bib.topic-no-space }}">
+
+	{% if bib.description %}
+		<p>
+			{{ bib.description }}
+		</p>
+	{% endif %}
+
+	</div>
+
+	<script>
+		$("#bibliography-{{ bib.topic-no-space }}").click(function() {
+			$("#bibliography-info-{{ bib.topic-no-space }}").slideToggle()
+		})
+	</script>
+
+</div>

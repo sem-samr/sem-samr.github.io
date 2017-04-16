@@ -19,6 +19,7 @@ email: cwituls@bgsu.edu
 description: "A special interest group within the Society for Ethnomuiscology"
 collections:
   - members
+  - resources
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
