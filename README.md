@@ -9,15 +9,8 @@ Built in Jekyll and hosted with Github Pages. This site is maintained by [Christ
 	* Add contact info for leadership
 	* Add mission, etc.
 	* If there is not much here, maybe wrap it into the opening page
-* Build more detailed member information template
-	* Remove publications?
-	* Add link to personal/professional website
-	* Add email with link
-* Improve member listing
-	* Fold out options with just name/affiliation showing at first
-	* Add info on submitting/updating your listing
-	* Change look
-* Add resource templates
+* Links to blank page
+* Sort resource listings (date)
 
 ## More distant future updates
 

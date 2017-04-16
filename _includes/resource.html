@@ -11,6 +11,18 @@
 		</p>
 	{% endif %}
 
+	{% if bib.resources %}
+		<ul class="collection-indent">
+			{% for pub in bib.resources %}
+				{% if pub.link %}
+					<li>{{ pub.author }}, <a href="{{ pub.link }}" target="_blank">{{ pub.title }}</a> ({{ pub.date }}), <em>{{ pub.publication }}</em></li>
+					{% else %}
+						<li>{{ pub.author }}, {{ pub.title }} ({{ pub.date }}), <em>{{ pub.publication }}</em></li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+	{% endif %}
+
 	</div>
 
 	<script>
