@@ -1,24 +1,37 @@
-<div class="member">
+<div class="member" id="member-{{ member.first-name }}-{{ member.last-name }}">
 	<h4>{{ member.first-name }} {{ member.last-name }}
-		{% if member.affiliation %}
-		<small>{{ member.affiliation }}
-			{% if member.title %} - {{ member.title }}{% endif %}
-		</small>
+
+		{% if member.job-title %}
+			<small>| {{ member.job-title }}</small>
 		{% endif %}
-		<span class="drop-down" id="drop-down-{{ member.first-name }}-{{ member.last-name }}">&or;</span>
+
+		{% if member.affiliation %}
+			<small>| {{ member.affiliation }}</small>
+		{% endif %}
+
+		<span class="drop-down">&#9660;</span>
 	</h4>
 
 	{% if member.interests or member.publications %}
 
 		<div class="member-info" id="member-info-{{ member.first-name }}-{{ member.last-name }}">
 
-		{% if member.interests %}
-			<p>{{ member.interests %}}</p>
+		{% if member.email or member.website %}
+			<p>
+				{% if member.email %}<strong>Email:</strong> <a href="mailto:{{ member.email }}">{{ member.email }} </a>{% endif %}
+				{% if member.email and member.website %} | {% endif %}
+				{% if member.website %}<strong>Website:</strong> <a href="{{ member.website }}"> {{ member.website }}</a>{% endif %}
+			</p>
 		{% endif %}
 
-<!--
+		{% if member.interests %}
+			<p><strong>Interests:</strong></p>
+			<ul class="member-indent"><li>{{ member.interests %}}</li></ul>
+		{% endif %}
+
 		{% if member.publications %}
-			<ul>
+			<p><strong>Selected publications and projects:</strong></p>
+			<ul class="member-indent">
 				{% for pub in member.publications %}
 					{% if pub.link %}
 						<li><a href="{{ pub.link }}" target="_blank">{{ pub.title }}</a> ({{ pub.date }}), <em>{{ pub.publication }}</em></li>
@@ -28,14 +41,13 @@
 				{% endfor %}
 			</ul>
 		{% endif %}
--->
 
 		</div>
 
 	{% endif %}
 
 	<script>
-		$("#drop-down-{{ member.first-name }}-{{ member.last-name }}").click(function() {
+		$("#member-{{ member.first-name }}-{{ member.last-name }}").click(function() {
 			$("#member-info-{{ member.first-name }}-{{ member.last-name }}").slideToggle()
 		})
 	</script>

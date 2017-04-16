@@ -2,7 +2,9 @@
 first-name: "Christopher"
 last-name: "Witulski"
 affiliation: "Bowling Green State University"
-title: "Instructor of Ethnomusicology"
+job-title: "Instructor of Ethnomusicology"
+email: "cwitulski@bgsu.edu"
+website: "http://cjwit.github.io"
 interests: "Conceptions of sacred and secular within popular culture in Morocco and across North Africa, analytical methodologies"
 publications:
   - title: "Light rhythms and heavy spirits: entertaining listeners through gnawa musical and ritual adaptations in Morocco"
@@ -12,7 +14,9 @@ publications:
   - title: "The Gnawa Lions: new pathways of advancement for Moroccan professional ritual musicians"
     publication: "Journal of North African Studies"
     date: "2016"
+    link: "http://www.tandfonline.com/doi/abs/10.1080/13629387.2016.1151358"
   - title: "Crossing paths: musical and ritual interactivity between the ḥamadsha and gnawa in Sidi Ali, Morocco"
     publication: "Yale Journal of Music and Religion"
     date: "2016"
+    link: "http://elischolar.library.yale.edu/yjmr/vol2/iss2/10/"
 ---

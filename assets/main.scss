@@ -67,16 +67,25 @@ $on-laptop:        800px;
 }
 
 .drop-down {
-  font-size: .7em;
-  float: right;
-  border: 1px solid $grey-color;
+  font-size: .6em;
+  float: left;
+  color: $grey-color;
   margin: 4px;
-  padding: 0px 5px 2px 5px;
-  border-radius: 3px;
+  padding: 2px 5px 2px 5px;
+//  border: 1px solid $grey-color;
+//  border-radius: 3px;
 }
 
 .member-info {
   padding-left: 24px;
   display: none;
   color: $grey-color-dark;
+}
+
+.member-indent {
+  list-style: none;
+}
+
+.member-indent>li {
+  margin-top: 12px;
 }
