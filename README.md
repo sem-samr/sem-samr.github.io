@@ -11,6 +11,13 @@ Built in Jekyll and hosted with Github Pages. This site is maintained by [Christ
 	* If there is not much here, maybe wrap it into the opening page
 * Links to blank page
 * Sort resource listings (date)
+* Add Formspree
+	* Submit resource (Name, email, title, publication/project, date, description, link)
+	* Submit member info (Name, affiliation, title, email, web, publications/projects [date, title, link, publication], interests, etc)
+* Posts
+	* Contributing
+	* Around the site
+	* Welcome
 
 ## More distant future updates
 
