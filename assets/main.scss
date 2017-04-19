@@ -76,6 +76,15 @@ $on-laptop:        800px;
 //  border-radius: 3px;
 }
 
+.collection {
+  border-top: 1px solid $grey-color-light;
+}
+
+.description {
+  font-size: .8em;
+  font-style: italic;
+}
+
 .collection-info {
   padding-left: 24px;
   display: none;
@@ -87,5 +96,8 @@ $on-laptop:        800px;
 }
 
 .collection-indent>li {
-  margin-top: 12px;
+  padding-left: 36px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  text-indent: -24px;
 }

@@ -7,18 +7,22 @@ resources:
     author: "Hicham Aidi"
     publication: "Pantheon Books"
     date: 2014
+    type: "book"
   - title: "Music and Media in the Arab World"
     author: "Michael Frishkopf, ed."
     publication: "The American University in Cairo Press"
     date: 2010
+    type: "book"
   - title: "Islam and Popular Culture"
     author: "Karin van Nieuwkerk and Mark LeVine, ed."
     publication: "University of Texas Press"
     date: 2015
+    type: "book"
   - title: "Popular Culture in the Arab World"
     author: "Andrew Hammond"
     publication: "The American University in Cairo Press"
     date: 2007
+    type: "book"
   - title: "My voice is my weapon: music, nationalism, and the poetics of Palestinian resistance"
     author: "David A. McDonald"
     publication: "Duke University Press"
@@ -27,4 +31,5 @@ resources:
     author: "Virginia Danielson"
     publication: "University of Chicago Press"
     date: 1997
+    type: "book"
 ---

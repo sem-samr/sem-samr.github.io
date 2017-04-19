@@ -6,7 +6,7 @@
 	<div class="collection-info" id="bibliography-info-{{ bib.topic-no-space }}">
 
 	{% if bib.description %}
-		<p>
+		<p class="description">
 			{{ bib.description }}
 		</p>
 	{% endif %}
@@ -15,11 +15,25 @@
 		<ul class="collection-indent">
 			{% assign sorted-pubs = (bib.resources | sort:'date' | reverse) %}
 			{% for pub in sorted-pubs %}
-				{% if pub.link %}
-					<li>{{ pub.author }}, <a href="{{ pub.link }}" target="_blank">{{ pub.title }}</a> ({{ pub.date }}), <em>{{ pub.publication }}</em></li>
-					{% else %}
-						<li>{{ pub.author }}, {{ pub.title }} ({{ pub.date }}), <em>{{ pub.publication }}</em></li>
+
+				{% comment %} CHECKING FOR TYPES {% endcomment %}
+
+				{% if pub.type == "book" %}
+					{% if pub.link %}
+						<li>{{ pub.author }}, <a href="{{ pub.link }}" target="_blank"><em>{{ pub.title }}</em></a> ({{ pub.date }}), {{ pub.publication }}</li>
+						{% else %}
+							<li>{{ pub.author }}, <em>{{ pub.title }}</em> ({{ pub.date }}), {{ pub.publication }}</li>
+					{% endif %}
 				{% endif %}
+
+				{% if pub.type == "article" %}
+					{% if pub.link %}
+						<li>{{ pub.author }}, <a href="{{ pub.link }}" target="_blank">"{{ pub.title }},"</a> ({{ pub.date }}), <em>{{ pub.publication }}</em> {{ pub.issue }}</li>
+						{% else %}
+							<li>{{ pub.author }}, "{{ pub.title }}," ({{ pub.date }}), <em>{{ pub.publication }}</em> {{ pub.issue }}</li>
+					{% endif %}
+				{% endif %}
+
 			{% endfor %}
 		</ul>
 	{% endif %}
