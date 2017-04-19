@@ -17,17 +17,20 @@
 
 		<div class="collection-info" id="member-info-{{ member.first-name }}-{{ member.last-name }}">
 
-		{% if member.email or member.website %}
+		{% if member.email %}
 			<p>
-				{% if member.email %}<strong>Email:</strong> <a href="mailto:{{ member.email }}">{{ member.email }} </a>{% endif %}
-				{% if member.email and member.website %} | {% endif %}
-				{% if member.website %}<strong>Website:</strong> <a href="{{ member.website }}"> {{ member.website }}</a>{% endif %}
+				<strong>Email:</strong> <a href="mailto:{{ member.email }}">{{ member.email }} </a>
+			</p>
+		{% endif %}
+
+		{% if member.website %}
+			<p>
+				<strong>Website:</strong> <a href="{{ member.website }}"> {{ member.website }}</a>
 			</p>
 		{% endif %}
 
 		{% if member.interests %}
-			<p><strong>Interests:</strong></p>
-			<ul class="collection-indent"><li>{{ member.interests %}}</li></ul>
+			<p><strong>Interests:</strong> {{ member.interests %}}</p>
 		{% endif %}
 
 		{% if member.publications %}

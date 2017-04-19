@@ -4,7 +4,7 @@ last-name: "Witulski"
 affiliation: "Bowling Green State University"
 job-title: "Instructor of Ethnomusicology"
 email: "cwitulski@bgsu.edu"
-website: "http://cjwit.github.io"
+website: "https://www.bgsu.edu/musical-arts/faculty-and-staff/christopher-witulski.html"
 interests: "Sacred popular music in Morocco and across North Africa, analytical methodologies, gnawa music, and authenticity"
 publications:
   - title: "Light rhythms and heavy spirits: entertaining listeners through gnawa musical and ritual adaptations in Morocco"
