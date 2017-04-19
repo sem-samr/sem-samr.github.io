@@ -1,7 +1,7 @@
 ---
 topic: "Popular music"
 topic-no-space: "popular-music"
-description: "Popular music styles across the region"
+description: "This list aims to present some of the recent scholarship focused on the region's popular music through theories and case studies."
 resources:
   - title: "Rebel Music: Race, Empire, and the New Muslim Youth Culture"
     author: "Hicham Aidi"
@@ -15,4 +15,16 @@ resources:
     author: "Karin van Nieuwkerk and Mark LeVine, ed."
     publication: "University of Texas Press"
     date: 2015
+  - title: "Popular Culture in the Arab World"
+    author: "Andrew Hammond"
+    publication: "The American University in Cairo Press"
+    date: 2007
+  - title: "My voice is my weapon: music, nationalism, and the poetics of Palestinian resistance"
+    author: "David A. McDonald"
+    publication: "Duke University Press"
+    date: 2013
+  - title: "The Voice of Egypt: Umm Kulthūm, Arabic Song, and Egyptian Society in the Twentieth Century"
+    author: "Virginia Danielson"
+    publication: "University of Chicago Press"
+    date: 1997
 ---

@@ -13,7 +13,8 @@
 
 	{% if bib.resources %}
 		<ul class="collection-indent">
-			{% for pub in bib.resources %}
+			{% assign sorted-pubs = (bib.resources | sort:'date' | reverse) %}
+			{% for pub in sorted-pubs %}
 				{% if pub.link %}
 					<li>{{ pub.author }}, <a href="{{ pub.link }}" target="_blank">{{ pub.title }}</a> ({{ pub.date }}), <em>{{ pub.publication }}</em></li>
 					{% else %}
