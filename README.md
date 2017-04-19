@@ -9,10 +9,6 @@ Built in Jekyll and hosted with Github Pages. This site is maintained by [Christ
 	* Add contact info for leadership
 	* Add mission, etc.
 * Posts
-	* Contributing
-		* Submit resource (Name, email, title, publication/project, date, description, link)
-		* Submit member info (Name, affiliation, title, email, web, publications/projects [date, title, link, publication], interests, etc)
-	* Around the site
 	* Welcome
 
 ## More distant future updates
