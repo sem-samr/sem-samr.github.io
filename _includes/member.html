@@ -1,5 +1,6 @@
-<div class="collection" id="member-{{ member.first-name }}-{{ member.last-name }}">
-	<h4>{{ member.first-name }} {{ member.last-name }}
+<div class="collection">
+	<h4 id="member-{{ member.first-name }}-{{ member.last-name }}">
+		{{ member.first-name }} {{ member.last-name }}
 
 		{% if member.job-title %}
 			<small>| {{ member.job-title }}</small>
