@@ -38,9 +38,30 @@
 			<ul class="collection-indent">
 				{% for pub in member.publications %}
 					{% if pub.link %}
-						<li><a href="{{ pub.link }}" target="_blank">{{ pub.title }}</a> ({{ pub.date }}), <em>{{ pub.publication }}</em></li>
-						{% else %}
-							<li>{{ pub.title }} ({{ pub.date }}), <em>{{ pub.publication }}</em></li>
+						<li><a href="{{ pub.link }}" target="_blank">
+							{% if pub.type == 'book' %}
+								<em>{{ pub.title }}</em>
+								{% else %}{{ pub.title }}
+							{% endif %}
+						</a>
+						({{ pub.date }}),
+						{% if pub.type == 'article' %}
+							<em>{{ pub.publication }}</em>
+							{% else %}{{ pub.publication }}
+						{% endif %}
+						</li>
+					{% else %}
+						<li>
+							{% if pub.type == 'book' %}
+								<em>{{ pub.title }}</em>
+								{% else %}{{ pub.title }}
+							{% endif %}
+							({{ pub.date }}),
+							{% if pub.type == 'article' %}
+								<em>{{ pub.publication }}</em>
+								{% else %}{{ pub.publication }}
+							{% endif %}
+						</li>
 					{% endif %}
 				{% endfor %}
 			</ul>
