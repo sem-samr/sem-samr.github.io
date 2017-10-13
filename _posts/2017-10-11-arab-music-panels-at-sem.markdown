@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Some highlights to look out for at SEM"
+title:  "Arab music panels at SEM"
 date:   2017-10-11 19:53:09 -0500
 categories: sem
 author: "Christopher Witulski"
