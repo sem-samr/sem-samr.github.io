@@ -17,22 +17,22 @@ The annual SEM meeting in Denver is coming up and there are a number of sessions
 
 **A Musical Mahjar: Idiom, Translocality, and Agency Across the Indian Ocean Region** Chair: George Murer, The Graduate Center, City University of New York
 
-* **8:30 Bridging Indian Ocean Worlds through the Materio-Symbolic Power of the Gambus Lute: An Urban Malaysian Case Study** Joe Kinzer, University of Washington
+* 8:30 **Bridging Indian Ocean Worlds through the Materio-Symbolic Power of the Gambus Lute: An Urban Malaysian Case Study** Joe Kinzer, University of Washington
 
-* **9:00 Performing Da'wah: Musical Practices Among Students at the State Islamic University in Yogyakarta** Albert Agha, University of California, Los Angeles
+* 9:00 **Performing Da'wah: Musical Practices Among Students at the State Islamic University in Yogyakarta** Albert Agha, University of California, Los Angeles
 
-* **9:30 Manifestations of Musical Polyculturalism within Indian Ocean networks: 'Adani in Kuwait** Gabriel Lavin, University of California, Los Angeles
+* 9:30 **Manifestations of Musical Polyculturalism within Indian Ocean networks: 'Adani in Kuwait** Gabriel Lavin, University of California, Los Angeles
 
-* **10:00 The Agora of the Fasil: Genre Boundaries and Translocal Idioms and Aesthetics in the Hadramiyat of Twenty-First Century Kuwait** George Murer, The Graduate Center, City University of New York
+* 10:00 **The Agora of the Fasil: Genre Boundaries and Translocal Idioms and Aesthetics in the Hadramiyat of Twenty-First Century Kuwait** George Murer, The Graduate Center, City University of New York
 
 ### 11K: Spruce
 
-* **9:00 Listening, Censoring, Representing: Arab Voices, the State, and Israeli Society** Ilana Webster-Kogen, School of Oriental and African Studies, University of London
+* 9:00 **Listening, Censoring, Representing: Arab Voices, the State, and Israeli Society** Ilana Webster-Kogen, School of Oriental and African Studies, University of London
 
-* **10:00 “Our Music”: Syrian Tarab and the Politics of Refugee Representation in Germany** Michael O’Toole, DePaul University
+* 10:00 **“Our Music”: Syrian Tarab and the Politics of Refugee Representation in Germany** Michael O’Toole, DePaul University
 
 ## Sunday 10:45 am - 12:15 pm
 
 ### 12J: Colorado Ballroom H
 
-* **11:15 Melodic Structures And Modal Development in Morocco’s Andalusian Musical Tradition** Christopher Witulski, Bowling Green State University
+* 11:15 **Melodic Structures And Modal Development in Morocco’s Andalusian Musical Tradition** Christopher Witulski, Bowling Green State University
