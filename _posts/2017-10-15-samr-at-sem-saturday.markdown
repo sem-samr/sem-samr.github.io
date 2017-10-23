@@ -15,13 +15,13 @@ The annual SEM meeting in Denver is coming up and there are a number of sessions
 
 **Performing Islam** Chair: Farzaneh Hemmasi, University of Toronto
 
-* **The International Fajr Music Festival: The Politics of Participation, Restrictions, and Musical Identities** Mehrenegar Rostami, University of California, Los Angeles
+* **8:30 The International Fajr Music Festival: The Politics of Participation, Restrictions, and Musical Identities** Mehrenegar Rostami, University of California, Los Angeles
 
-* **Reconceiving Shiite Maddahi Rituals: The Emergence of New Religiosities in Iran** Hamidreza Salehyar, University of Toronto
+* **9:00 Reconceiving Shiite Maddahi Rituals: The Emergence of New Religiosities in Iran** Hamidreza Salehyar, University of Toronto
 
-* **The Politics of Representation in Contemporary Mawlid Celebrations** Jon Bullock, University of Chicago
+* **9:30 The Politics of Representation in Contemporary Mawlid Celebrations** Jon Bullock, University of Chicago
 
-* **Trancing with the Children of Pamir: Ismaili Muslim Devotional Music, Cosmopolitan Creativity and Globalized Sufism in Post-Soviet Tajikistan** Katherine Freeze, Brown University
+* **10:00 Trancing with the Children of Pamir: Ismaili Muslim Devotional Music, Cosmopolitan Creativity and Globalized Sufism in Post-Soviet Tajikistan** Katherine Freeze, Brown University
 
 ### 9H: Colorado Ballroom G
 
@@ -29,19 +29,19 @@ The annual SEM meeting in Denver is coming up and there are a number of sessions
 
 **Popular Culture, Activism, Violence, and the State in Israel/Palestine** Chair: David McDonald, Indiana University
 
-* **If I Could Go Back in Time: Rethinking Popular Culture, Activism, and the Public Sphere in Palestine** David McDonald, Indiana University
+* **8:30 If I Could Go Back in Time: Rethinking Popular Culture, Activism, and the Public Sphere in Palestine** David McDonald, Indiana University
 
-* **Happy Birthday to Whom?: Israeli Nationhood, Musical Collaboration, and the Exclusionary Semiotics of Bat Shishim** Mili Leitner, University of Chicago
+* **9:00 Happy Birthday to Whom?: Israeli Nationhood, Musical Collaboration, and the Exclusionary Semiotics of Bat Shishim** Mili Leitner, University of Chicago
 
-* **Musical Memory, Animated Amnesia: Traumatic Soundscapes in Waltz with Bashir** Michael Figueroa, University of North Carolina, Chapel Hill
+* **9:30 Musical Memory, Animated Amnesia: Traumatic Soundscapes in Waltz with Bashir** Michael Figueroa, University of North Carolina, Chapel Hill
 
-* **Jowan Safadi’s ‘To Be an Arab’: Music Video from the Disputed Borderlines of Nation, Ethnicity and Class in Israel** Nili Belkind, Independent Scholar
+* **10:00 Jowan Safadi’s ‘To Be an Arab’: Music Video from the Disputed Borderlines of Nation, Ethnicity and Class in Israel** Nili Belkind, Independent Scholar
 
 ## Saturday 10:45 am - 12:15 pm
 
 ### 10J: Spruce
 
-* **Andalusian Music and Contagion Theory: Transmission within Social and Media Ecologies of Medieval Iberia** Jared Holton, University of California, Santa Barbara
+* **11:45 Andalusian Music and Contagion Theory: Transmission within Social and Media Ecologies of Medieval Iberia** Jared Holton, University of California, Santa Barbara
 
 ## Saturday 4:15 pm - 5:45 pm
 

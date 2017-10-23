@@ -17,79 +17,61 @@ The annual SEM meeting in Denver is coming up and there are a number of sessions
 
 **Besides Resistance: Affects and Politics of Youth Music and Listening in the Arab Mediterranean** Chair: Kendra Salois, American University
 
-* **Listening Through and Against Ma'luf in Post-Revolutionary Tunisia** Rachel Colwell, University of California, Berkeley
+* **8:30 Listening Through and Against Ma'luf in Post-Revolutionary Tunisia** Rachel Colwell, University of California, Berkeley
 
-* **Egyptian DIY Music as Challenge to Arab "Decline"** Darci Sprengel, University of California, Los Angeles
+* **9:00 Egyptian DIY Music as Challenge to Arab "Decline"** Darci Sprengel, University of California, Los Angeles
 
-* **Performing Just Brown Enough** Chris Nickell, New York University
+* **9:30 Performing Just Brown Enough** Chris Nickell, New York University
 
-* **Discussant** Kendra Salois, American University
+* **10:00 Discussant** Kendra Salois, American University
 
 ### 1C: Colorado Ballroom I & J
 
-* **Dissenting Voices in China’s Muslim Borderlands: From Nation to Nasheed** Rachel Harris, School of Oriental and Asian Studies, University of London
+* **9:00 Dissenting Voices in China’s Muslim Borderlands: From Nation to Nasheed** Rachel Harris, School of Oriental and Asian Studies, University of London
 
 ### 1D: Independence
 
-* **“I Put My Hand in the Hunters’ Qur’an”: Song, Islam, and Hunting in Contemporary Côte d’Ivoire** Joseph Hellweg, Florida State University
+* **10:00 “I Put My Hand in the Hunters’ Qur’an”: Song, Islam, and Hunting in Contemporary Côte d’Ivoire** Joseph Hellweg, Florida State University
 
 ### 1E: Colorado Ballroom A
 
-* **Quandaries of Style: Individuality, Collectivity, and Egyptian Violinists** Lillie Gordon, University of Tennessee, Knoxville
-
-* **Play Them All!: Networking, Institutionalisation, And Competition Among String Ensembles Of Turkey** Serkan Şener, Instanbul Technical University
+* **9:00 Quandaries of Style: Individuality, Collectivity, and Egyptian Violinists** Lillie Gordon, University of Tennessee, Knoxville
 
 ### 1G: Colorado Ballroom C
 
-* **Syrian Rappers and Musical Activism in War-Torn Syria** Guilnard Moufarrej, United States Naval Academy
+* **10:00 Syrian Rappers and Musical Activism in War-Torn Syria** Guilnard Moufarrej, United States Naval Academy
 
 ## Thursday 10:45 am - 12:15 pm
 
 ### 2D: Independence
 
-* **Gending Tri Sandhya: Politics and Gender Wayang Music in a Balinese “Call to Prayer”** Meghan Hynson, Duquesne University
+* **11:45 Gending Tri Sandhya: Politics and Gender Wayang Music in a Balinese “Call to Prayer”** Meghan Hynson, Duquesne University
 
 ### 2E: Colorado Ballroom A
 
-* **Listening to the Fakir’s Voice: Vernacular History Between the Lines in Colonial Singapore** Julia Byl, University of Alberta
+* **10:45 Listening to the Fakir’s Voice: Vernacular History Between the Lines in Colonial Singapore** Julia Byl, University of Alberta
 
-### 2H: Colorado Ballroom G
+### 2I: Colorado Ballroom G
 
-* **Synchronization in the Synagogue** Rosa Abrahams, Ursinus College
+* **10:45 Synchronization in the Synagogue** Rosa Abrahams, Ursinus College
 
 ### 2K: Spruce
 
-* **(Workshop) Performing the Radif: The Case of Dastgah-e Mahur** Farzad Amoozegar, University of California, Los Angeles
+* **10:45 (Workshop) Performing the Radif: The Case of Dastgah-e Mahur** Farzad Amoozegar, University of California, Los Angeles
 
 ## Thursday 1:45 pm - 3:45 pm
 
-### 3A: Penrose 1 - Live Video Streaming
-
-*Roundtable Sponsored by the Sound Studies Special Interest Group*
-
-**Theorizing Sound Writing II/Thinking Sound** Chair: Deborah Kapchan, New York University
-
-* Carol Muller, University of Pennsylvania; Anne Rasmussen, College of William and Mary; Michelle Kisliuk, University of Virginia; Martin Daughtry, New York University; Tomie Hahn, Rensselaer Polytechnic Institute; David Henderson, St. Lawrence University
-
-### 3E: Colorado Ballroom A
-
-* **Casamançais Music as Exploitable Resource in Senegalese Pop** Scott Linford, Berklee College of Music
-
 ### 3G: Colorado Ballroom C
 
-* **Paris Sha'bī: Memory and Identity in the Algerian Diaspora** Christopher Orr, Florida State University
+* **2:45 Paris Sha'bī: Memory and Identity in the Algerian Diaspora** Christopher Orr, Florida State University
 
 ## Thursday 4:00 pm - 5:30 pm
 
 ### 4D: Independence
 
-* **al-Batin, al-Wali, al-Zahir: Regimes of Silence and Voicing in Muslim Toronto** Alia O’Brien, University of Toronto
+* **4:30 al-Batin, al-Wali, al-Zahir: Regimes of Silence and Voicing in Muslim Toronto** Alia O’Brien, University of Toronto
 
-* **The Nu-Tarab Soundscape: Arab-Islamic Diasporas and Counter-Cultural Spaces in Canada** Jillian Fulton, York University
-
-### 4G: Colorado Ballroom C
-
-* **Generosity and Gratitude, Patronage and Praise; Performing Sociality in Dakar, Senegal** Brendan Kibbee, The Graduate Center, CUNY
+* **5:00 The Nu-Tarab Soundscape: Arab-Islamic Diasporas and Counter-Cultural Spaces in Canada** Jillian Fulton, York University
 
 ## Thursday 7:00 pm - 12:00 am
 
