@@ -1,5 +1,5 @@
 ---
-topic: Undergraduate Friendly Readings
+topic: Useful readings for undergraduate teaching
 topic-no-space: "undergraduate-friendly-readings"
 description: This listing is intended to provide resources for the undergraduate-level classroom. This is just a cursory start, send along chapters, articles, or books that you have bread or used in your classes!
 resources:
