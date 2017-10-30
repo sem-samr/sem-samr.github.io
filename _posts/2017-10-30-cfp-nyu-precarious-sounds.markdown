@@ -10,11 +10,11 @@ Thank you to Chris Nickell for sharing information on an upcoming conference at 
 
 **Submissions are due soon, on November 5th.**
 
-# Call for Submissions: Precarious Sounds/Sounding Sanctuary
+## Call for Submissions: Precarious Sounds/Sounding Sanctuary
 
-## NYU Music Department Conference
+### NYU Music Department Conference
 
-## February 16-17, 2018
+### February 16-17, 2018
 
 We invite you to submit an abstract for a paper or a performance proposal for the conference “Precarious Sounds / Sounding Sanctuary” to be held February 16-17, 2018 and featuring Professor Josh Kun giving the keynote address. The conference is hosted by the Faculty of Arts and Science Music Department at New York University in New York City.
 
@@ -26,7 +26,7 @@ As music and sound scholars, we ask: What does this precarity sound like? How ha
 
 At this conference, we invite critical approaches to the ways sound and music make, manifest, and mobilize against various kinds of precarity. We are particularly interested in sound and music’s role in the struggle against the insecurity of disenfranchised, displaced, refugee, and targeted peoples since the War on Terror. We welcome work that brings historical moments into conversation with our present conjuncture. We also seek work that critically expands or even challenges prevalent conceptions of sound, activism, and precarity, and creatively brings these terms into relation.
 
-## Topic examples include, but are not limited, to the following:
+### Topic examples include, but are not limited, to the following:
 
 *Vulnerability* - The many frameworks that grow out of and feed into precarity—past and present— including late capitalist exploitation, Islamophobia and the “Muslim travel ban,” deportation and forced resettlement, state surveillance, police brutality, racial nationalism, permanent states of exception, and crisis ordinaries
 

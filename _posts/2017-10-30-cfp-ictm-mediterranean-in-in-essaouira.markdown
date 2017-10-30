@@ -10,9 +10,9 @@ Thank you to Alessandra Cuicci for reminding us about the upcoming deadline for 
 
 **Submissions are due soon, on November 17th.**
 
-# Call for Papers and Panels: The 12th Symposium of the ICTM Study Group Mediterranean Music Studies
+## Call for Papers and Panels: The 12th Symposium of the ICTM Study Group Mediterranean Music Studies
 
-## Music and Sound at the Mediterranean Crossroads
+### Music and Sound at the Mediterranean Crossroads
 
 The ICTM Study Group on Mediterranean Music is pleased to announce its 12th Symposium on the theme **“Music and Sound at the Mediterranean Crossroads.”** The symposium  will be hosted by the [Association Essaouira-Mogador](http://www.essaouiramogador.org/), and will be held at [Dar Souiri](https://essaouira.madeinmedina.com/fr/centre-culturel-dar-souiri-18261.html) Essaouira, Morocco, June 19-24, 2018.
 
