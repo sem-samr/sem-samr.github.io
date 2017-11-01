@@ -14,8 +14,6 @@
 
 	</h4>
 
-	{% if member.interests or member.publications %}
-
 		<div class="collection-info" id="member-info-{{ member.first-name }}-{{ member.last-name }}">
 
 		{% if member.email %}
@@ -69,8 +67,6 @@
 		{% endif %}
 
 		</div>
-
-	{% endif %}
 
 	<script>
 		$("#member-{{ member.first-name }}-{{ member.last-name }}").click(function() {
