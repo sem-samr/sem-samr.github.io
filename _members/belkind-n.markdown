@@ -1,0 +1,20 @@
+---
+first-name: "Nili"
+last-name: "Belkind"
+email: "nili@nilimusica.com"
+publications:
+  - title: "Music in Conflict: Palestine, Israel and the Politics of Aesthetic Production"
+    publication: "PhD dissertation, Columbia University"
+    date: "2014"
+    type: "dissertation"
+  - title: "Israel's J14 Social Protest Movement: On Music, Politics, and Social Justice"
+    publication: "Middle East Journal of Culture and Communications"
+    date: "2013"
+    type: "article"
+    link: "http://booksandjournals.brillonline.com/content/journals/10.1163/18739865-00603005"
+  - title: "A Message for Peace or an Instrument of Oppression? The Israeli Jewish-Arab Duo Achinoam Nini and Mira Awad Represent Israel at the 2009 Eurovision"
+    publication: "Current Musicology"
+    date: "2010"
+    type: "article"
+    link: "https://academiccommons.columbia.edu/download/fedora_content/download/ac%3A178100/CONTENT/current.musicology.89.belkind.7-35.pdf"
+---
