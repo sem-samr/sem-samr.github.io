@@ -8,6 +8,7 @@ publications:
   - title: "Changing Performance Traditions and Bedouin Identity in the North Badiya, Jordan (with Mohammad Al-Oun)"
     publication: "Nomadic Peoples"
     date: "2014"
+    link: "http://www.ingentaconnect.com/search/article?option1=tka&value1=Changing+Performance+Traditions+and+Bedouin+Identity+in+the+North+Badiya%2c+Jordan"
     type: "article"
   - title: "Ongoing ethnographic project with the Bedouins in the North Badiya, Jordan, begun in 2010, including a forthcoming book, <em>The Bedouin Beauty of My Grandmother</em> (with Gazua Matrauk Elaun)"
     type: "article"
