@@ -43,9 +43,11 @@
 								{% else %}{{ pub.title }}
 							{% endif %}
 						</a>
-						({{ pub.date }}),
+						{% if pub.date %}
+							({{ pub.date }})
+						{% endif %}
 						{% if pub.type == 'article' %}
-							<em>{{ pub.publication }}</em>
+							<em>, {{ pub.publication }}</em>
 							{% else %}{{ pub.publication }}
 						{% endif %}
 						</li>
@@ -55,7 +57,9 @@
 								<em>{{ pub.title }}</em>
 								{% else %}{{ pub.title }}
 							{% endif %}
-							({{ pub.date }}),
+							{% if pub.date %}
+								({{ pub.date }})
+							{% endif %}
 							{% if pub.type == 'article' %}
 								<em>{{ pub.publication }}</em>
 								{% else %}{{ pub.publication }}
