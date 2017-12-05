@@ -1,11 +1,10 @@
 <div class="collection">
 	<h4 id="member-{{ member.first-name }}-{{ member.last-name }}">
-		<span class="drop-down">&#9660;</span>
 
-		{{ member.first-name }} {{ member.middle-initial }} {{ member.last-name }}
+		{{ member.first-name }} {{ member.middle-initial }} {{ member.last-name }}<br>
 
 		{% if member.job-title %}
-			<small>| {{ member.job-title }}</small>
+			<small> {{ member.job-title }}</small>
 		{% endif %}
 
 		{% if member.affiliation %}
