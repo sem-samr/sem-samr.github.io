@@ -2,6 +2,8 @@
 first-name: "Kathleen"
 last-name: "Hood"
 email: "kathleenhood8@gmail.com"
+affiliation: "UCLA Ethnomusicology Department"
+job-title: "Publications Director and Events Coordinator"
 website: "http://kathleenhoodmusic.com/"
 interests: "Arab music, especially from Jordan, Lebanon, and Syria; North and West Africa"
 publications:
