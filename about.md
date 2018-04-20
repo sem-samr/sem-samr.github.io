@@ -10,6 +10,7 @@ In addition to this page and its annual meeting at the SEM national conference, 
 
 # Leadership
 
-* President: David McDonald
-* Past President: Hicham Chami
+* President: Christopher Witulski
+* Co-chairs: Chris Nickell, Alan Karass
+* Past President: David McDonald
 * Web Development and Management: Christopher Witulski
