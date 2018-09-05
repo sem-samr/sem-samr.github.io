@@ -36,9 +36,16 @@
 
 				{% if pub.type == "chapter" %}
 					{% if pub.link %}
-						<li>{{ pub.author }}, <a href="{{ pub.link }}" target="_blank">"{{ pub.title }},"</a> ({{ pub.date }}), in <em>{{ pub.publication }}</em>, edited by {{ pub.editor }}</li>
+						<li>{{ pub.author }}, <a href="{{ pub.link }}" target="_blank">"{{ pub.title }},"</a>
+							({{ pub.date }}), in <em>{{ pub.publication }}</em>,
+							edited by {{ pub.editor }}
+							{% if pub.pages %}(pages {{ pub.pages }}){% endif %}</li>
 						{% else %}
-							<li>{{ pub.author }}, "{{ pub.title }}," ({{ pub.date }}), in <em>{{ pub.publication }}</em>, edited by {{ pub.editor }}</li>
+							<li>{{ pub.author }}, "{{ pub.title }},"
+								({{ pub.date }}), in <em>{{ pub.publication }}</em>,
+								edited by {{ pub.editor }}
+								{% if pub.pages %}(pages {{ pub.pages }}){% endif %}</li>
+
 					{% endif %}
 				{% endif %}
 
