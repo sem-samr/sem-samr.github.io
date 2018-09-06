@@ -47,33 +47,52 @@ resources:
     date: 2012
     link: "http://www.iemed.org/observatori-es/arees-danalisi/arxius-adjunts/anuari/med.2012/Cavatorta_en.pdf"
     type: "url"
+  - title: "The Arab Spring: A Revolution of the Imagination"
+    author: "Tarik Ahmed Elseewi"
+    date: 2011
+    publication: "International Journal of Communication"
+    issue: "5"
+    type: "article"
+  - title: "Understanding the Revolutions of 2011: Weakness and Resilience in Middle Eastern Autocracies"
+    author: "Jack Goldstone and John Hazel, Jr."
+    publication: "Foreign Affairs"
+    issue: "90(3)"
+    type: "article"
+  - title: "Understanding Tahrir Square: What Transitions Elsewhere Can Teach Us About the Prospects for Arab Democracy"
+    author: "Stephen Grand and Cynthia Stock"
+    date: 2014
+    publication: "Brookings Institution Press"
+    type: "book"
+  - title: "Hip Hop and the Arab Spring"
+    date: 2011
+    link: "http://wagingnonviolence.org/2011/07/hip-hop-and-the-arab-spring"
+    type: "url"
+  - title: "Arab Spring, "Favelas," Borders, and the Artistic Transnational Migration: Toward a Curriculum for a Global Hip-Hop Nation"
+    author: "Awad Ibrahim"
+    date: 2017
+    publication: "Curriculum Inquiry"
+    issue: "47(1)"
+    type: "article"
+  - title: "The Arab Spring in North Africa: Origins and Prospects"
+    author: "George Joffé"
+    date: 2011
+    publication: "The Journal of North African Studies"
+    issue: "16(4)"
+    type: "article"
+  - title: "The Use of Social Media from Revolution to Democratic Consolidation: The Arab Spring and the Case of Tunisia"
+    author: "Magdalena Karolak"
+    date: 2017
+    publication: "Journal of Arab & Muslim Media Research"
+    issue: "10(2)"
+    type: "article"
+  - title: "Social Media in Democratic Transitions and Consolidations: What Can We Learn From the Case of Tunisia?"
+    author: "Magdalena Karolak"
+    date: 2018
+    publication: "The Journal of North African Studies"
+    issue: "In press"
+    link: "https://www.tandfonline.com/doi/full/10.1080/13629387.2018.1482535"
+    type: "article"
 ---
-
-
-
-Elseewi, Tarik Ahmed. 2011. “The Arab Spring: A Revolution of the
-Imagination.” International Journal of Communication 5: 1197-1206.
-
-Goldstone, Jack and John Hazel, Jr. 2011. "Understanding the Revolutions of 2011: Weakness
-and Resilience in Middle Eastern Autocracies." Foreign Affairs 90 (3): 8-10, 11-16.
-
-Grand, Stephen and Cynthia Stock. 2014. Understanding Tahrir Square: What Transitions
-Elsewhere Can Teach Us About the Prospects for Arab Democracy. Washington, D.C.: Brookings Institution Press.
-
-Hip Hop and the Arab Spring. 2011. Accessed 3 September 2018. http://wagingnonviolence.org/2011/07/hip-hop-and-the-arab-spring
-
-Ibrahim, Awad. 2017. "Arab Spring, "Favelas," Borders, and the Artistic Transnational
-Migration: Toward a Curriculum for a Global Hip-Hop Nation." Curriculum Inquiry 47(1): 103-11.
-
-Joffé, George. 2011. “The Arab Spring in North Africa: Origins and Prospects.” The Journal of
-North African Studies 16(4): 507-532.
-
-Karolak, Magdalena. 2017. “The Use of Social Media from Revolution to Democratic
-Consolidation: The Arab Spring and the Case of Tunisia.” Journal of Arab & Muslim Media Research 10(2): 199-216.
-
-------------------------. 2018. “Social Media in Democratic Transitions and Consolidations: What
-Can We Learn From the Case of Tunisia?” The Journal of North African Studies.
-Article in Press.
 
 Levine, Mark. 2015 "When Art Is the Weapon: Culture and Resistance Confronting Violence in
 the Post-Uprisings Arab World." Religions 6(4): 1277-313.
