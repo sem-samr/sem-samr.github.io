@@ -55,6 +55,7 @@ resources:
     type: "article"
   - title: "Understanding the Revolutions of 2011: Weakness and Resilience in Middle Eastern Autocracies"
     author: "Jack Goldstone and John Hazel, Jr."
+    date: 2011
     publication: "Foreign Affairs"
     issue: "90(3)"
     type: "article"
@@ -64,10 +65,11 @@ resources:
     publication: "Brookings Institution Press"
     type: "book"
   - title: "Hip Hop and the Arab Spring"
+    author: "Bryan Farrell"
     date: 2011
     link: "http://wagingnonviolence.org/2011/07/hip-hop-and-the-arab-spring"
     type: "url"
-  - title: "Arab Spring, "Favelas," Borders, and the Artistic Transnational Migration: Toward a Curriculum for a Global Hip-Hop Nation"
+  - title: "Arab Spring, 'Favelas,' Borders, and the Artistic Transnational Migration: Toward a Curriculum for a Global Hip-Hop Nation"
     author: "Awad Ibrahim"
     date: 2017
     publication: "Curriculum Inquiry"
