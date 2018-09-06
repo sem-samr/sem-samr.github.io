@@ -34,6 +34,14 @@
 					{% endif %}
 				{% endif %}
 
+				{% if pub.type == "url" %}
+					{% if pub.link %}
+						<li>{{ pub.author }}, <a href="{{ pub.link }}" target="_blank">"{{ pub.title }},"</a> ({{ pub.date }})</li>
+						{% else %}
+							<li>{{ pub.author }}, "{{ pub.title }}," ({{ pub.date }})</li>
+					{% endif %}
+				{% endif %}
+
 				{% if pub.type == "chapter" %}
 					{% if pub.link %}
 						<li>{{ pub.author }}, <a href="{{ pub.link }}" target="_blank">"{{ pub.title }},"</a>
