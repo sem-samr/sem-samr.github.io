@@ -25,3 +25,11 @@ The annual SEM meeting in Albuquerque is coming up and there are a number of ses
 ### 10G: Alvarado D&E
 
 * 11:15 **Queering the Melismatic Pitch: Arab-influenced 'Oriental' Music in the Israeli LGBTQ Scene** Moshe Morad, Tel Aviv University
+
+## Saturday 8:00 pm to 10:00pm
+
+**SEM Orchestra Meeting and Open Jam Session**
+
+### 10G: Alvarado D&E
+
+* 11:15 **Queering the Melismatic Pitch: Arab-influenced 'Oriental' Music in the Israeli LGBTQ Scene** Moshe Morad, Tel Aviv University

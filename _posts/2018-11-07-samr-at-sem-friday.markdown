@@ -50,7 +50,15 @@ The annual SEM meeting in Albuquerque is coming up and there are a number of ses
 * 4:30 **Opportunity and Conflict: The Gentrification of Khazunes** Jeremiah Lockwood, Stanford University
 * 5:00 **Hasidic Songs, Sephardi Voices: Constructing Modern Religious Selves in Istanbul's Jewish Community** Joseph Alpar, The Graduate Center, City University of New York
 
-## Friday 7:30 pm to 9:30 pm
+## Friday 7:00 pm to 8:30 pm
+
+### Alvarado C
+
+**Society for Asian Music** featuring a keynote by Virginia Danielson on the topic of "Listening to the Voices of Arab Women"
+
+## Friday 8:30 pm to 9:30 pm
+
+*Note the time change from the program to allow for members to attend the preceding keynote*
 
 ### Alvarado F
 
