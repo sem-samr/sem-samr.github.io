@@ -33,38 +33,72 @@
 
 		{% if member.publications %}
 			<p><strong>Selected publications and projects:</strong></p>
+
 			<ul class="collection-indent">
 				{% for pub in member.publications %}
-					{% if pub.link %}
-						<li><a href="{{ pub.link }}" target="_blank">
-							{% if pub.type == 'book' %}
-								<em>{{ pub.title }}</em>
-								{% else %}{{ pub.title }}
-							{% endif %}
-						</a>
-						{% if pub.date %}
-							({{ pub.date }})
-						{% endif %}
-						{% if pub.type == 'article' %}
-							<em>, {{ pub.publication }}</em>
-							{% else %}{{ pub.publication }}
-						{% endif %}
-						</li>
-					{% else %}
+
+					{% if pub.type == 'project' %}
+
 						<li>
-							{% if pub.type == 'book' %}
-								<em>{{ pub.title }}</em>
-								{% else %}{{ pub.title }}
-							{% endif %}
-							{% if pub.date %}
-								({{ pub.date }})
-							{% endif %}
-							{% if pub.type == 'article' %}
-								<em>{{ pub.publication }}</em>
-								{% else %}{{ pub.publication }}
-							{% endif %}
+							{% if pub.link %}<a href="{{ pub.link }}" target="_blank">{% endif %}
+
+								{{ pub.title }}
+
+							{% if pub.link %}</a>{% endif %}
+
+							{% if pub.date %} ({{ pub.date }}){% endif %}
+
+							{% if pub.publication %}, <em>{{ pub.publication }}</em>{% endif %}
 						</li>
+
 					{% endif %}
+
+					{% if pub.type == 'article' %}
+
+						<li>
+							{% if pub.link %}<a href="{{ pub.link }}" target="_blank">{% endif %}
+
+								{{ pub.title }}
+
+							{% if pub.link %}</a>{% endif %}
+
+							{% if pub.date %} ({{ pub.date }}){% endif %}<em>, {{ pub.publication }}</em>
+						</li>
+
+					{% endif %}
+
+					{% if pub.type == 'book' %}
+
+						<li>
+							{% if pub.link %}<a href="{{ pub.link }}" target="_blank">{% endif %}
+
+								<em>{{ pub.title }}</em>
+
+							{% if pub.link %}</a>{% endif %}
+
+							{% if pub.date %} ({{ pub.date }}){% endif %}, {{ pub.publication }}
+
+						</li>
+
+					{% endif %}
+
+					{% if pub.type == 'chapter' %}
+
+						<li>
+							{{ pub.title }}
+
+							{% if pub.date %} ({{ pub.date }}){% endif %}, in
+
+							{% if pub.link %}<a href="{{ pub.link }}" target="_blank">{% endif %}
+
+							<em>{{ pub.publication }}</em>
+
+							{% if pub.link %}</a>{% endif %}
+
+						</li>
+
+					{% endif %}
+
 				{% endfor %}
 			</ul>
 		{% endif %}

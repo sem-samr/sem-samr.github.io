@@ -19,6 +19,6 @@ publications:
   - title: "Fleas in the Sheepskin: Glocalization and Cosmopolitanism in Moroccan Hip-Hop"
     publication: "Islam and Popular Culture"
     date: "2016"
-    type: "article"
+    type: "chapter"
     link: "https://utpress.utexas.edu/books/van-nieuwkerk-levine-stokes-islam-and-popular-culture"
 ---
