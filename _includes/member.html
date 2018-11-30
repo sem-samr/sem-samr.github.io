@@ -4,11 +4,11 @@
 		{{ member.first-name }} {{ member.middle-initial }} {{ member.last-name }}<br>
 
 		{% if member.job-title %}
-			<small> {{ member.job-title }}</small>
+			<small> {{ member.job-title }} | </small>
 		{% endif %}
 
 		{% if member.affiliation %}
-			<small>| {{ member.affiliation }}</small>
+			<small>{{ member.affiliation }}</small>
 		{% endif %}
 
 	</h4>
