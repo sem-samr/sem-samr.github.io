@@ -10,7 +10,6 @@ In addition to this page and its annual meeting at the SEM national conference, 
 
 # Leadership
 
-* President: Christopher Witulski
-* Co-chairs: Chris Nickell, Alan Karass
-* Past President: David McDonald
+* Chair: Christopher Witulski
+* Chair-elect: Beau Bothwell
 * Web Development and Management: Christopher Witulski
