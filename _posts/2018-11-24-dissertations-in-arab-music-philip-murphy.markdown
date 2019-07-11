@@ -2,7 +2,7 @@
 layout: post
 title:  "Dissertations in Arab Music: Philip Murphy's Annihilation in God & Living in the World"
 date:   2018-11-24 18:00:00 -0500
-categories: sem
+categories: sem research dissertation
 author: "Christopher Witulski"
 ---
 *This post describes a recent or nearly-complete dissertation on an Arab music topic as part of our new series on Dissertations in Arab Music. [See here for information on how to share your own work.]({% post_url 2018-9-5-dissertations-in-arabic-music %})*
