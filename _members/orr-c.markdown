@@ -1,5 +1,5 @@
 ---
-first-name: "Chris"
+first-name: "Christopher"
 last-name: "Orr"
 affiliation: "Florida State University (alumnus)"
 email: "cco13@my.fsu.edu"
