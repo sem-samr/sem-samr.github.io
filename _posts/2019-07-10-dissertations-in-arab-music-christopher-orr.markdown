@@ -28,8 +28,7 @@ The following is perhaps the most well-known *sha'bi* song. Its composer Dahmane
 >*Sh-hal shift buldan l-'amrin wa-l-brr l-khali*  
 >*Sh-hal dayy'at awqat wa-sh-hal zid ma zal tkhali*
 
->Oh migrant, to where are you traveling? You will inevitably end up  
-returning  
+>Oh migrant, to where are you traveling? You will inevitably end up returning  
 >How many naïve ones have gone before you and me?  
 >How many overcrowded nations have you seen, and others empty?  
 >How much time have you already lost and how much more will you lose?
