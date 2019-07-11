@@ -9,6 +9,8 @@ author: "Christopher Witulski"
 
 ## 'Come, Ask My Heart': Voice, Meaning, and Affect among Algerian *Sha'bi* Musicians in Paris
 
+### By Chris Orr, Florida State University (2019)
+
 This dissertation explores performances of Algerian *sha'bi* music in Paris as affectively powerful experiences for the Algerian migrant community. Literally meaning "popular," *sha'bi* developed as a modernized form of colloquial sung poetry among the working class of mid-twentieth century Algiers and remains a significant mode of cultural expression today. Drawing from extended fieldwork, I compare an array of formal and informal performance contexts in and around the French capital, ranging from cafés, to large concert halls, to private soirées. Through interviews and my own observations, I consider the interdependency of place and intimacy in the expression of authority, morality, ecstasy, tradition, and communal belonging in *sha'bi* praxis.
 
 *Sha'bi* is a music shaped by histories of colonialism and migration, and yet rooted in strong associations of place through evocations of its city of origin. Rather than adhering to well-worn dyadic constructions of home and exile, I explore the idea of place in multiple guises, both real and imagined, as it either constrains or enables shared ecstatic experience among listeners in diaspora. This approach not only opens exciting opportunities to understand the immediacy of ecstatic musical experience, but better accounts for the complexities and contradictions of the migrant experience.
