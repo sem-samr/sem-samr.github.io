@@ -20,6 +20,16 @@ Each year, SAMR is able to organize and sponsor panels submitted for the Society
 
 The following list of past sponsored SEM panels, roundtables, and other events demonstrates the thematic and geographic diversity that SAMR supports.
 
+**2019**
+
+Ambivalence, Yearning, Stillness: Directions in Arab Music Studies
+
+Arab-Influenced UDM and the Politics of Music and Identity (lecture/performance)
+
+Rethinking the Collective in Music after the Arab Spring: Communities, Nations, Diasporas
+
+Spaces in Arab American Musical Life
+
 **2018**
 
 Sounding Arab: The Politics of Race and Difference in Middle Eastern Music
