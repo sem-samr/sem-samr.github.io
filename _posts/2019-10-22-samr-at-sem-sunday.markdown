@@ -9,53 +9,31 @@ The annual SEM meeting in Bloomington is coming up and there are a number of ses
 
 **Listings for other days: [Thursday]({{ site.baseurl }}{% post_url 2019-10-22-samr-at-sem-thursday %}), [Friday]({{ site.baseurl }}{% post_url 2019-10-22-samr-at-sem-friday %}), [Saturday]({{ site.baseurl }}{% post_url 2019-10-22-samr-at-sem-saturday %})**
 
-## Friday 8:30 am - 10:30 am
+## Sunday 8:30 am - 10:30 pm
 
-### 5D: Colorado Ballrooms I & J
+### 11G: Redbud
 
-* 10:00 **The Radif as Musical Syntax: A Case Study on the Revival of the Qanun in Persian Music** Behzad Namazi, Ohio University
+* 9:00 **The Audible Empire: British Intelligence, the BBC, and the Curation of Musical Content for the Aden Protectorate and Arab Gulf Territories, 1933-1939** Gabriel W. Lavin, University of California, Los Angeles
+* 10:00 **Marketing the "Music of Morocco": The Evolution of the Bowles Project** Hicham Chami, Columbia University
 
-## Friday 10:45 am - 12:15 pm
+### 11K: Whittenberger
 
-### 6A: Colorado Ballroom E - Live Video Streaming
+* 9:00 **The Azgagrakan Movement: An Embodied Form of Armenian Nationalism** Armen Adamian, University of California, Los Angeles
 
-*President’s Roundtable, Sponsored by the SEM Board*
+## Sunday 10:45 am - 12:15 pm
 
-10:45 **Engaged Activism among Ethnomusicologists Responding to the Contemporary Dynamic
- of Migrants and Refugees** Chair: Anne K. Rasmussen, College of William and Mary
+### 12B: State Room East
 
-* Annemette Kirkegaard, University of Copenhagen; Cathy Ragland, University of North Texas; Marcia Osteshewski, Cape Breton University; Oliver Shao, Indiana University Bloomington; Imad Al Taha, Iraqi Musician, Utica, New York
+**Challenges to Continuity in Turkish Alevi Practice: A Transnational Perspective** Chair: Irene Markoff, York University
 
-## Friday 12:30 pm - 1:30 pm
+* 10:45 **Alevi Entangled Identity and Religious Rituals in Istanbul** Seyhan Kayhan-Kiliç, Yeditepe University
+* 11:15 **The Contemporary Path to Alevi Zakirhood: Reflections on the Urban-Rural Divide in Turkey and the Bulgarian Diaspora** Irene Markoff, York University
+* 11:45 **The Alevi Cem and Beyond: Music and Collectivity in the Pir Sultan Abdal Cultural Association, Washington DC** Melanie T. Pinkert, Sandy Spring Museum
 
-### Colorado Ballroom B
+### 12D: Oak
 
-**SIG for Jewish Music**
+* 11:15 **Material Bodies and Listening Selves: Sama' as Healing Technology at Nizamuddin** Sonia Gaind-Krishnan, New York University
 
-### Colorado Ballroom C
+### 12G: Walnut
 
-**SIG for the Music of Iran and Central Asia**
-
-## Friday 1:45 pm - 3:45 pm
-
-### 7H: Colorado Ballroom D
-
-* 2:45 **“Intro to Shamstep”: The Frictions and Aspirations of Alternative Arabic Music** Liza Munk, University of California, Santa Barbara
-
-## Friday 4:00 pm - 5:30 pm
-
-### 8I: Colorado Ballroom G
-
-* 5:00 **"Resistance is Life": Guerrilla Music in Kurdish Istanbul** Jonathan S Withers, Salem State University
-
-### 8J: Colorado Ballroom H
-
-* 4:00 **Development as Spectacle: The Afghanistan National Youth Orchestra Comes to America** Tanya Kalmanovitch, The New School
-
-* 4:30 **“Open the Doors”: Songs of Child Welfare in Tunisia** Alan Karass, New England Conservatory
-
-## Friday 7:30 pm - 9:30 pm
-
-### Colorado Ballroom B
-
-**Society for Arab Music Research**
+* 11:15 **(Re)sounding Martyrdom: Musical Representations of Iranian Bahai Persecution** Daniel Stadnicki, University of Alberta

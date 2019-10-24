@@ -28,7 +28,7 @@ The annual SEM meeting in Bloomington is coming up and there are a number of ses
 
 * 8:30 **Theorizing "Quiet": Atmospheres of Sleep and Political Refusal in Post-Revolution Egypt** Darci Sprengel, University of Oxford
 
-## Friday 10:45 am - 12:15 pm
+## Saturday 10:45 am - 12:15 pm
 
 ### 10F: Persimmon
 
