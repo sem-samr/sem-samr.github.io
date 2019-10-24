@@ -11,51 +11,51 @@ The annual SEM meeting in Bloomington is coming up and there are a number of ses
 
 ## Friday 8:30 am - 10:30 am
 
-### 5D: Colorado Ballrooms I & J
+### 5E: Solarium
 
-* 10:00 **The Radif as Musical Syntax: A Case Study on the Revival of the Qanun in Persian Music** Behzad Namazi, Ohio University
+**Ambivalence, Yearning, Stillness: Directions in Arab Music Studies** Chair: Leila Tayeb, Cornell University; Discussant: Ted Swedenburg, University of Arkansas
+
+*Sponsored by the Society for Arab Music Research*
+
+* 8:30 **Yearning in Ambivalence: Independent Music Production and Nationalism in Post-Revolution Egypt** Yakein Abdelmagid, University of Pennsylvania
+* 9:00 **Yearning for Politics: Listening and the Dialectics of Loss** Rayya El Zein, University of Pennsylvania
+* 9:30 **Panic as Pleasure: Restaging the Moral Panic in Egypt** Heather Jaber, University of Pennsylvania
+* 10:00 **Yearning for (an) Authority: Militia Praise Songs in Post-Gaddafi Libya** Leila Tayeb, Cornell University
 
 ## Friday 10:45 am - 12:15 pm
 
-### 6A: Colorado Ballroom E - Live Video Streaming
+### 6D: Sassafras
 
-*President’s Roundtable, Sponsored by the SEM Board*
+* 11:15 **A Cry for Palestine: Vocal Practice and Imaginaries of Palestinianness among Chilean Soccer Supporters of Club Deportivo Palestino** Luis Achondo, Brown University
 
-10:45 **Engaged Activism among Ethnomusicologists Responding to the Contemporary Dynamic
- of Migrants and Refugees** Chair: Anne K. Rasmussen, College of William and Mary
+### 6H: Whittenberger
 
-* Annemette Kirkegaard, University of Copenhagen; Cathy Ragland, University of North Texas; Marcia Osteshewski, Cape Breton University; Oliver Shao, Indiana University Bloomington; Imad Al Taha, Iraqi Musician, Utica, New York
+* 11:45 **Sounding Liminality: (Un)bridging the Arab World and Europe** Ulrike C. Praeger, University of Salzburg
 
 ## Friday 12:30 pm - 1:30 pm
 
-### Colorado Ballroom B
+### Redbud
 
 **SIG for Jewish Music**
 
-### Colorado Ballroom C
+### Sassafras
 
 **SIG for the Music of Iran and Central Asia**
 
 ## Friday 1:45 pm - 3:45 pm
 
-### 7H: Colorado Ballroom D
+### 7B: Maple
 
-* 2:45 **“Intro to Shamstep”: The Frictions and Aspirations of Alternative Arabic Music** Liza Munk, University of California, Santa Barbara
+**Roundtable: Academic Research and Cultural Production in Times of Political Distress** Chair: Alyssa Mathias, University of California, Los Angeles
 
 ## Friday 4:00 pm - 5:30 pm
 
-### 8I: Colorado Ballroom G
+### 8K: Maple
 
-* 5:00 **"Resistance is Life": Guerrilla Music in Kurdish Istanbul** Jonathan S Withers, Salem State University
-
-### 8J: Colorado Ballroom H
-
-* 4:00 **Development as Spectacle: The Afghanistan National Youth Orchestra Comes to America** Tanya Kalmanovitch, The New School
-
-* 4:30 **“Open the Doors”: Songs of Child Welfare in Tunisia** Alan Karass, New England Conservatory
+* **Indeterminate Sounds, Divine Signs: on the cultivation of a hopeful sensorium during difficult times in Muslim Toronto** Alia H. O'Brien, University of Toronto
 
 ## Friday 7:30 pm - 9:30 pm
 
-### Colorado Ballroom B
+### Redbud
 
 **Society for Arab Music Research**
