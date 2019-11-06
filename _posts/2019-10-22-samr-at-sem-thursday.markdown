@@ -36,6 +36,7 @@ The annual SEM meeting in Bloomington is coming up and there are a number of ses
 ### 2C: Georgian
 
 * 10:45 **Arab Music and Trauma on the U.S.-Mexico Border** Andrea Shaheen Espinosa, University of Texas at El Paso
+* 11:15 **At the Threshold of Mortality: Musical Remembrances of Trauma and Death** Liliana Carrizo, Harvard University
 
 ### 2L: Sassafras
 
