@@ -6,13 +6,13 @@ permalink: /about/
 
 SAMR is a special interest group operating within the Society for Ethnomusicology. It is a collection of scholars dedicated to learning more about Arab music, broadly defined, and the cultural production of the Middle East, North Africa, the Muslim world, and its diaspora.
 
-In addition to this page and its annual meeting at the SEM national conference, the organization hosts an email list. Contact the current president for more information.
+In addition to this page and its annual meeting at the SEM national conference, the organization hosts an email list. Contact the current chair for more information.
 
 # Leadership
 
-* Chair: Christopher Witulski
-* Chair-elect: Beau Bothwell
-* Web Development and Management: Christopher Witulski
+* Chair: [Beau Bothwell](mailto:beau.bothwell@kzoo.edu)
+* Chair-elect: Now accepting nominations!
+* Web development and management: [Christopher Witulski](mailto:cwituls@bgsu.edu)
 
 # SEM Panel Sponsorship
 
