@@ -1,8 +1,9 @@
 ---
-first-name: "Lilliana"
+first-name: "Liliana"
 last-name: "Carrizo"
-affiliation: "College of William and Mary"
-job-title: "Adjunct Instructor of Religious Studies"
-email: "liligoldman@gmail.com"
-interests: "Iraqi domestic songs, musical practices of Iraqi immigrants in Israel and North America"
+affiliation: "Harvard University"
+job-title: "Postdoctoral Fellow in the Humanities"
+email: "lcarrizo@fas.harvard.edu"
+website: "http://mahindrahumanities.fas.harvard.edu/content/current-fellows/"
+interests: "Iraqi song, oral history, Iraqi maqam, Iraqi diaspora"
 ---

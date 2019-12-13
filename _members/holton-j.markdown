@@ -1,6 +1,5 @@
 ---
-first-name: "Scott"
-last-name: "Marcus"
+first-name: "Jared"
+last-name: "Holton"
 affiliation: "University of California, Santa Barbara"
-job-title: "Professor"
 ---
