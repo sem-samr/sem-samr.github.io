@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Beau Bothwell, SAMR chair-elect"
 date:   2018-12-06 14:00:00 -0500
-categories: sem
+categories: samr
 author: "Christopher Witulski"
 ---
 I'd like to formally welcome Beau Bothwell of Kalamazoo College as the inaugural "chair-elect" of SAMR. As discussed in our meeting in Albuquerque, Beau's position will change to "chair" upon the election of a new chair-elect, most likely following our next meeting at SEM in Bloomington, IN. Beau shared some thoughts when expressing his willingness to serve that are worth including here:
