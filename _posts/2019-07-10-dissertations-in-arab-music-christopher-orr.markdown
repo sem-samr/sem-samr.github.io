@@ -3,7 +3,7 @@ layout: post
 title:  "Dissertations in Arab Music: Christopher Orr's Come, Ask My Heart"
 date:   2019-07-10 18:00:00 -0500
 categories: sem research dissertation
-author: "Christopher Witulski"
+author: "Christopher Orr"
 ---
 *This post describes a recent or nearly-complete dissertation on an Arab music topic as part of our series on Dissertations in Arab Music. [See here for information on how to share your own work.]({% post_url 2018-9-5-dissertations-in-arabic-music %})*
 
