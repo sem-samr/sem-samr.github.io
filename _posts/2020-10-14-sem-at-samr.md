@@ -148,6 +148,14 @@ Chair: Gordon E. Smith, Queen’s University
 
 ### 10:00 – 11:30am (Session 10)
 
+10E **Dance Club Worlds**
+
+Chair: Kathryn Alexander, University of Arizona
+
+* 10:00 **Can Music Ever be Truly Transnational? The Case of Japanese Techno in Europe** Noriko Manabe, Temple University 
+* 10:30 **Arabian Noise: Social Violence and Indeterminacy Performed in Morocco's Techno Underground** Jillian Fulton, York University 
+* 11:00 **Unsavory Trade: Surveillance Technology and Nightclub Intimacy** Larisa Mann, Temple University
+
 10L **Aurality of Oppression and Resistance in Istanbul**  
 
 Chair: Nil Basdurak, University of Toronto
