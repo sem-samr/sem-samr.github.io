@@ -144,6 +144,21 @@ Chair: Gordon E. Smith, Queen’s University
 
 **Society for Arab Music Research** Meeting
 
+## Thursday, October 29
+
+### 10:00 – 12:00pm (Session 8)
+
+8L **Roundtable: Intersectional Listening Positionality**
+
+Chair: Matt Sakakeeny
+
+* Dyaln Robinson, Queens University
+* Nadia Chana, University of Wisconsin-Madison
+* Cecily Nicholson, City of Surrey
+* Matt Sakakeeny, Tulane University
+* Allie Martin, Dartmouth College
+* Shayna Silverstein
+
 ## Friday, October 30
 
 ### 10:00 – 11:30am (Session 10)
