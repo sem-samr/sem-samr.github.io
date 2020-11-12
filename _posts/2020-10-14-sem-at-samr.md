@@ -1,15 +1,16 @@
 ---
 layout: post
-title:  "SAMR at SEM2020: Arab Music Panels and Papers"
-date:   2020-10-14 12:00:00 -0500
+title: 'SAMR at SEM2020: Arab Music Panels and Papers'
+date: '2020-10-14 12:00:00 -0500'
 categories: sem
-author: "Beau Bothwell"
+author: Beau Bothwell
+published: true
 ---
 The annual SEM meeting in coming up and there are a number of sessions on the program related to Arab music, Islamic traditions, and the Middle East. Here are some to keep an eye out for. (Check back for updates and email [Beau Bothwell](mailto:beaubothwell@gmail.com) with any additions or corrections.)
 
 ## Wednesday, October 21  
 
-### Pre-Conference Symposium Musical Activism and Agency: Contestations and Confluences**
+### Pre-Conference Symposium Musical Activism and Agency: Contestations and Confluences
 
 10 a.m. – 12 p.m.
 
