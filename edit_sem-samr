@@ -1,0 +1,8 @@
+osascript -e 'tell app "Terminal"
+    do script "cd /Volumes/HDD/media/Dropbox/Website/sem-samr"
+end tell'
+osascript -e 'tell app "Terminal"
+    do script "cd /Volumes/HDD/media/Dropbox/Website/sem-samr && bundle exec jekyll serve"
+end tell'
+/usr/bin/open -a "/Applications/Google Chrome.app" 'http://127.0.0.1:4000/'
+atom /Volumes/HDD/media/Dropbox/Website/sem-samr
