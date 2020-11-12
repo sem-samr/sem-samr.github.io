@@ -1,5 +1,5 @@
 <div class="collection">
-	<h4 id="member-{{ member.first-name }}-{{ member.last-name }}">
+	<h4 id='member-{{ member.first-name | replace: " ", "-" }}-{{ member.last-name | replace: " ", "-" }}'>
 
 		{{ member.first-name }} {{ member.middle-initial }} {{ member.last-name }}<br>
 
@@ -13,7 +13,7 @@
 
 	</h4>
 
-		<div class="collection-info" id="member-info-{{ member.first-name }}-{{ member.last-name }}">
+		<div class="collection-info" id='member-info-{{ member.first-name | replace: " ", "-" }}-{{ member.last-name | replace: " ", "-" }}'>
 
 		{% if member.email %}
 			<p>
@@ -106,8 +106,8 @@
 		</div>
 
 	<script>
-		$("#member-{{ member.first-name }}-{{ member.last-name }}").click(function() {
-			$("#member-info-{{ member.first-name }}-{{ member.last-name }}").slideToggle()
+		$('#member-{{ member.first-name | replace: " ", "-" }}-{{ member.last-name | replace: " ", "-" }}').click(function() {
+			$('#member-info-{{ member.first-name | replace: " ", "-" }}-{{ member.last-name | replace: " ", "-" }}').slideToggle()
 		})
 	</script>
 
