@@ -10,9 +10,14 @@ In addition to this page and its annual meeting at the SEM national conference, 
 
 # Leadership
 
-* Chair: [Beau Bothwell](mailto:beau.bothwell@kzoo.edu)
-* Chair-elect: Now accepting nominations!
+* Chair: [Guilnard Moufarrej](mailto:guilnard.moufarrej@gmail.com)
 * Web development and management: [Christopher Witulski](mailto:cwituls@bgsu.edu)
+
+# Membership
+
+SAMR is open to anyone. While business meetings generally happen within the annual meeting for the Society for Ethnomusicology, much of the oganization's discussion occurs within an email list. To join the list, visit <http://www.mailman.srv.ualberta.ca/mailman/listinfo/samr-list> and enter your information.
+
+This site includes a roster of members who have shared their information. If you would like to add your own information, follow the directions listed on the [Members page](/members/).
 
 # SEM Panel Sponsorship
 
