@@ -25,6 +25,10 @@ Each year, SAMR is able to organize and sponsor panels submitted for the Society
 
 The following list of past sponsored SEM panels, roundtables, and other events demonstrates the thematic and geographic diversity that SAMR supports.
 
+**2020**
+
+Affective Engagements and Musical Performance in the Muslim World
+
 **2019**
 
 Ambivalence, Yearning, Stillness: Directions in Arab Music Studies
