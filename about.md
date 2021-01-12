@@ -2,6 +2,7 @@
 layout: page
 title: About SAMR
 permalink: /about/
+published: true
 ---
 
 SAMR is a special interest group operating within the Society for Ethnomusicology. It is a collection of scholars dedicated to learning more about Arab music, broadly defined, and the cultural production of the Middle East, North Africa, the Muslim world, and its diaspora.
@@ -11,6 +12,7 @@ In addition to this page and its annual meeting at the SEM national conference, 
 # Leadership
 
 * Chair: [Guilnard Moufarrej](mailto:guilnard.moufarrej@gmail.com)
+* Chair-elect: [Jared Holton](mailto:jholton@ucsb.edu)
 * Web development and management: [Christopher Witulski](mailto:cwituls@bgsu.edu)
 
 # Membership
