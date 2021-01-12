@@ -9,7 +9,7 @@ title: >-
   Conference 2021
 ---
 The Society for Arab Music Research Special Interest Group seeks to sponsor individual papers and organized sessions (panels and/or roundtables) to be submitted for consideration for the 2021 Society for Ethnomusicology conference, currently scheduled for 28-31 October in Atlanta, Georgia.
- 
+
 As usual, we are happy to sponsor fully formed panels/roundtables on or relevant to Arab music, or to assist in helping people with individual proposals connect to form panels. If you have ideas for themed panels or roundtable discussions, feel free to share them with us as soon as you can so we can coordinate our efforts. To get started, we are suggesting a few pertinent topics:
  
 1. The Legacies of Arab Music and Musicians Outside the MENA Region
