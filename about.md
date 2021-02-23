@@ -8,20 +8,27 @@ SAMR is a special interest group operating within the Society for Ethnomusicolog
 
 In addition to this page and its annual meeting at the SEM national conference, the organization hosts an email list. Contact the current chair for more information.
 
-# Leadership
+## Leadership
 
 * Chair: [Guilnard Moufarrej](mailto:guilnard.moufarrej@gmail.com)
 * Web development and management: [Christopher Witulski](mailto:cwituls@bgsu.edu)
 
-# Membership
+## Membership
 
 SAMR is open to anyone. While business meetings generally happen within the annual meeting for the Society for Ethnomusicology, much of the oganization's discussion occurs within an email list. To join the list, visit <http://www.mailman.srv.ualberta.ca/mailman/listinfo/samr-list> and enter your information.
 
 This site includes a roster of members who have shared their information. If you would like to add your own information, follow the directions listed on the [Members page](/members/).
 
-# SEM Panel Sponsorship
+## SEM Panel Sponsorship
 
 Each year, SAMR is able to organize and sponsor panels submitted for the Society for Ethnomusicology Annual Meeting. While sponsorship does not increase the chances of a paper being accepted, the exchanges and discussions that go into planning have been shown to be helpful according to SEM.
+
+To see the titles of all papers presented at SEM conferences for past years on topics related to Arab music, see the pages listed here: 
+
+* [2020]({{ site.baseurl }}{% link _posts/2020-10-14-sem-at-samr.md %})
+* 2019: [Thursday]({{ site.baseurl }}{% link _posts/2019-10-22-samr-at-sem-thursday.markdown %}), [Friday]({{ site.baseurl }}{% link _posts/2019-10-22-samr-at-sem-friday.markdown %}), [Saturday]({{ site.baseurl }}{% link _posts/2019-10-22-samr-at-sem-saturday.markdown %}), [Sunday]({{ site.baseurl }}{% link _posts/2019-10-22-samr-at-sem-sunday.markdown %})
+* 2018: [Thursday]({{ site.baseurl }}{% link _posts/2018-11-07-samr-at-sem-thursday.markdown %}), [Friday]({{ site.baseurl }}{% link _posts/2018-11-07-samr-at-sem-friday.markdown %}), [Saturday]({{ site.baseurl }}{% link _posts/2018-11-07-samr-at-sem-saturday.markdown %}), [Sunday]({{ site.baseurl }}{% link _posts/2018-11-07-samr-at-sem-sunday.markdown %})
+* 2017: [Thursday]({{ site.baseurl }}{% link _posts/2017-10-15-samr-at-sem-thursday.markdown %}), [Friday]({{ site.baseurl }}{% link _posts/2017-10-15-samr-at-sem-friday.markdown %}), [Saturday]({{ site.baseurl }}{% link _posts/2017-10-15-samr-at-sem-saturday.markdown %}), [Sunday]({{ site.baseurl }}{% link _posts/2017-10-15-samr-at-sem-sunday.markdown %})
 
 The following list of past sponsored SEM panels, roundtables, and other events demonstrates the thematic and geographic diversity that SAMR supports.
 
